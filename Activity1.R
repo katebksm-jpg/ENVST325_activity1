@@ -62,4 +62,11 @@ temp <- c(-44,0,20,35)
 
 # homework ----
 
+#homework question 1 - convert Elevation from feet to meters
+
+Elevation/3.281
+
+#homework question 2 
+#isolate row with highest round trip
+Mountains[2,]
 
