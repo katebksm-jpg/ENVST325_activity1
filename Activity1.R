@@ -49,6 +49,17 @@ Elevation <- c(4960,4926,4857,4840)
 ClimbAscent <- c(3570,4265,2800,4178)
 Roundtriplength <-c(17.8,17.9,13.2,16)
 
+Mountains <- data.frame(name=Peaks,
+                        Elevation=Elevation,
+                        ClimbAscent=ClimbAscent,
+                        Roundtriplength=Roundtriplength)
+
+#prompt3
+#make a vector of temperature 
+temp <- c(-44,0,20,35)
+#convert to Fahreheit 
+(temp*1.8)+32
+
 # homework ----
 
 
