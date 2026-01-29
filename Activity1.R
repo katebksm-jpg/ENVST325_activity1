@@ -32,6 +32,23 @@ highPeaks$elev
 highPeaks[1,1]
 highPeaks[,1]
 
+# in class prompts
+# Prompt 1
+# make a vector of snow depth 
+
+snowdepth <-c(2.5,3,5,4.5)
+#convert to cm
+snowdepth*2.54
+
+#prompt 2
+#make a data frame
+Peaks <- c("Mount Haystack", "Mount Skylight", 
+           "Dix Mountain","Gray Peak")
+Elevation <- c(4960,4926,4857,4840)
+
+ClimbAscent <- c(3570,4265,2800,4178)
+Roundtriplength <-c(17.8,17.9,13.2,16)
+
 # homework ----
 
 
