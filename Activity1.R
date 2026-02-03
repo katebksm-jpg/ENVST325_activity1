@@ -69,4 +69,7 @@ Elevation/3.281
 #homework question 2 
 #isolate row with highest round trip
 Mountains[2,]
+#create variable for the row
+longest <- Mountains[2,]
+longest
 
